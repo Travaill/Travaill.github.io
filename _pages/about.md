@@ -43,15 +43,16 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 ## Selected Publications
 
-- ``TNSE 2025`` DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants, IEEE Transactions on Network Science and Engineering, **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. **(Q1, IF=7.9)**
+- ``CVPR 2023`` ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:Y0pCki6q_DkC'></span>
+- ``ACM MM 2024`` GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients, Proceedings of the 32nd ACM International Conference on Multimedia, **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, Jun Liu. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:0EnyYjriUFMC'></span>
+- ``TDSC 2023`` MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning, IEEE Transactions on Dependable and Secure Computing, Xiaoyu Zhang, **Shen Lin**, Chao Chen, Xiaofeng Chen. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:eQOLeE2rZwMCC'></span>
+- ``ECCV 2024`` LTRL: Boosting Long-tail Recognition via Reflective Learning, European Conference on Computer Vision, Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. **(CCF-B, Oral)**<span class='show_paper_citations' data='ORwuKSYAAAAJ:LkGwnXOMwfcC'></span>
+- ``TNSE 2025`` DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants, IEEE Transactions on Network Science and Engineering, **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. **(Q1, IF=7.9)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:8k81kl-MbHgC'></span>
+- ``TDSC 2025`` MPGStack: Membership privacy protection on graph data via model stacking, IEEE Transactions on Dependable and Secure Computing, Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:eQOLeE2rZwMC'></span>
 
-- ``TDSC 2025`` MPGStack: Membership privacy protection on graph data via model stacking, IEEE Transactions on Dependable and Secure Computing, Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. **(CCF-A)**
 
-- ``ACM MM 2024`` GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients, Proceedings of the 32nd ACM International Conference on Multimedia, **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, Jun Liu. **(CCF-A)**
 
-- ``TDSC 2023`` MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning, IEEE Transactions on Dependable and Secure Computing, Xiaoyu Zhang, **Shen Lin**, Chao Chen, Xiaofeng Chen. **(CCF-A)**
 
-- ``CVPR 2023`` ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo. **(CCF-A)**
 
 ## Preprints
 

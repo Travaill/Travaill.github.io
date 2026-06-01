@@ -102,7 +102,6 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 本人立志“长期处于科研一线，促进学生全面发展”
 
-本人长期招收对人工智能安全与隐私保护感兴趣的本科生，请同学们先了解本人的研究方向，发送个人简历至本人邮箱：linshen@fjnu.edu.cn，欢迎对学术感兴趣的学生进组学习。
 
 **对学生的期望：**
 

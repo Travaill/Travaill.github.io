@@ -73,22 +73,6 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 <!-- # 💬 Invited Talks
 - *2025.XX*, Talk title, venue. -->
 
-# 👥 Team Members
-
-I am a member of Prof. Li Xu's research group at the College of Computer and Cyberspace Security, Fujian Normal University. Our group focuses on artificial intelligence security, trustworthy machine learning, cyberspace security, and related interdisciplinary topics. 
-
-
-
-# 📢 Prospective Students
-
-I am looking for self-motivated undergraduate and graduate students who are interested in AI security and privacy. Potential research topics include, but are not limited to:
-
-- Machine unlearning and data forgetting in deep learning models.
-- Model watermarking, ownership verification, and generated-content provenance.
-- Trustworthy and safe multimodal models, including VLMs and text-to-image generative models.
-- Privacy, robustness, and security evaluation of large-scale AI systems.
-
-Students with backgrounds in deep learning, computer vision, natural language processing, information security, or applied mathematics are especially welcome. If you are interested, please send me an email with your CV, transcript, and a brief description of your research interests.
 
 # 💻 Academic Services
 

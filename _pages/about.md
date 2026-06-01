@@ -62,8 +62,8 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 - 博士研究生国家奖学金
 
-<span class='anchor' id='education'></span>
-# 📖 Education
+<span class='anchor' id='educations'></span>
+# 📖 Educations
 
 - *2025.08 - Present*, Lecturer, College of Computer and Cyberspace Security, Fujian Normal University, China.
 

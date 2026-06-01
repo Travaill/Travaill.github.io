@@ -21,10 +21,12 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 <a href='https://scholar.google.com/citations?user=ORwuKSYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url={{ url | url_encode }}&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 
 - 招收27级网络空间安全学硕和人工智能专硕！
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -57,11 +59,12 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 - ``arXiv 2026`` [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309), **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu
 
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 
 - 博士研究生国家奖学金
 
+<span class='anchor' id='students'></span>
 # 📖 Education and Experience
 
 - *2025.08 - Present*, Lecturer, College of Computer and Cyberspace Security, Fujian Normal University, China.
@@ -73,12 +76,13 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 <!-- # 💬 Invited Talks
 - *2025.XX*, Talk title, venue. -->
 
-
+<span class='anchor' id='academic-services'></span>
 # 💻 Academic Services
 
 - Reviewer for CVPR, ICCV, NeurIPS, ACM MM, IEEE TKDE, and IEEE TDSC.
 
 
+<span class='anchor' id='students'></span>
 # 👥 指导学生
 
 ### 研究生
@@ -96,9 +100,10 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 - 李佳麒
 - 刘海林
 
+<span class='anchor' id='prospective-students'></span>
 # 📢 招生信息 
 
-**<招收27级网络空间安全学硕和人工智能专硕>**
+**！！！招收27级网络空间安全学硕和人工智能专硕**
 
 本人立志“长期处于科研一线，促进学生全面发展”
 

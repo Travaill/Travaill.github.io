@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lin Shen(林燊) - Homepage"
-description              : "PhD Student in Xidian University, focusing on federated learning, privacy-preserving computing."
+title                    : "Lin Shen(林燊)-Homepage"
+description              : "Lecturer in Fujian Normal University."
 repository               : "Travaill/Travaill.github.io"
 google_scholar_stats_use_cdn : true
 

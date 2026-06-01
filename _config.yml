@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Li Wenjie(李文杰) - Homepage"
+title                    : "Lin Shen(林燊) - Homepage"
 description              : "PhD Student in Xidian University, focusing on federated learning, privacy-preserving computing."
-repository               : "imamtom/imamtom.github.io"
+repository               : "Travaill/traivaill.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Shen(林燊)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xidian University"
-  location         : "Xi'an, China"
+  bio              : "Fujian Normal University"
+  location         : "Fuzhou, China"
   employer         : # "Xidian University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=ORwuKSYAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "imamtom"
+  github           : "traivaill"
   google_plus      :
   keybase          :
   instagram        :

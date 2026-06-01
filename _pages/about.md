@@ -17,57 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my PhD at the School of Cyber Engineering, Xidian University, China, while also serving as a visiting student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU).
+I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Normal University. I received my Ph.D. degree in Cyberspace Security from Xidian University in 2025. I was also a visiting scholar at the Singapore University of Technology and Design (SUTD).
 
-My research interest includes cryptography, secure aggregation in federated learning and privacy-preserving machine learning. I have published 5 papers <a href='https://scholar.google.com/citations?user=wATzPDYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fimamtom%2Fimamtom.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the journals.
+My research interests include machine unlearning, data forgetting, model watermarking, AI safety, and trustworthy multimodal generative models. My recent work focuses on interpretable and verifiable machine unlearning, robust model ownership verification, and safety governance for vision-language and generative models.
+
+<a href='https://scholar.google.com/citations?user=ORwuKSYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url={{ url | url_encode }}&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 The paper "Enhancing Security and Privacy in Federated Learning using  Low-Dimensional Update Representation and Proximity Based Defense" is accpted by ``TKDE 2025``. 
 
+- *2025.08*: &nbsp;I joined the College of Computer and Cyberspace Security, Fujian Normal University as a Lecturer.
+- *2025.06*: &nbsp;I received my Ph.D. degree in Cyberspace Security from Xidian University.
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html) <strong><span class='show_paper_citations' data='ORwuKSYAAAAJ:YOUR_CITATION_ID'></span></strong>
+- An interpretable knowledge-level machine unlearning method based on knowledge disentanglement and directed knowledge transfer.
 </div>
 </div> -->
 
-- ``TKDE 2025``[Enhancing Security and Privacy in Federated Learning using  Low-Dimensional Update Representation and Proximity Based Defense](https://ieeexplore.ieee.org/abstract/document/10878290), IEEE Transactions on Knowledge and Data Engineering, **Li Wenjie**, Fan Kai, Zhang Jingyuan, Li Hui, Lim Wei Yang Bryan, Yang Qiang. [More details](https://imamtom.github.io/FLURP/)
+## Selected Publications
 
-- ``IOTJ 2023`` [PBFL: Privacy-Preserving and Byzantine-Robust Federated Learning Empowered Industry 4.0](https://ieeexplore.ieee.org/abstract/document/10251424), IEEE Internet of Things Journal, **Li Wenjie**, Fan Kai, Yang Kan, Yang Yintang, Li Hui.
+- ``TNSE 2025`` DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants, IEEE Transactions on Network Science and Engineering, **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. **(Q1, IF=7.9)**
 
-- ``IOTJ 2023`` [Flsg: a novel defense strategy against inference attacks in vertical federated learning](https://ieeexplore.ieee.org/abstract/document/10210670), IEEE Internet of Things Journal, Kai Fan, Hong Jingtao, **Wenjie Li**, Xingwen Zhao, Hui Li, Yintang Yang.
+- ``TDSC 2025`` MPGStack: Membership privacy protection on graph data via model stacking, IEEE Transactions on Dependable and Secure Computing, Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. **(CCF-A)**
 
-- ``PPNA 2023`` [A revocable attribute-based encryption EHR sharing scheme with multiple authorities in blockchain](https://link.springer.com/article/10.1007/s12083-022-01387-4), Peer-to-peer Networking and Applications, Yang Xiaohui, **Li Wenjie\***, Fan Kai.
+- ``ACM MM 2024`` GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients, Proceedings of the 32nd ACM International Conference on Multimedia, **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, Jun Liu. **(CCF-A)**
 
-- ``C&S 2020`` [A zero-knowledge-proof-based digital identity management scheme in blockchain](https://www.sciencedirect.com/science/article/abs/pii/S0167404820303230), Computers & Security, Yang Xiaohui, **Li Wenjie\***.
+- ``TDSC 2023`` MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning, IEEE Transactions on Dependable and Secure Computing, Xiaoyu Zhang, **Shen Lin**, Chao Chen, Xiaofeng Chen. **(CCF-A)**
+
+- ``CVPR 2023`` ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo. **(CCF-A)**
+
+## Preprints
+
+- ``arXiv 2026`` [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610), **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen.
+
+- ``arXiv 2026`` [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309), **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu
+
 
 # 🎖 Honors and Awards
-- *2021* Outstanding graduate of Hebei province. 
-- *2020* Graduate National Scholarship. 
 
-# 📖 Educations
+- 博士研究生国家奖学金
 
-- *2023.11 - 2024.10*, Visiting Ph.D. Student, College of Computing and Data Science, Nanyang Technological University, Supervised by [Wei Yang Bryan Lim](https://sites.google.com/view/wyb).
+# 📖 Education and Experience
 
-- *2021.09 - 2025.06*, Ph.D. in Cybersecurity, School of Network and Information Security, Xidian University, Supervised by [Fan Kai](https://web.xidian.edu.cn/fankai/).
+- *2025.08 - Present*, Lecturer, College of Computer and Cyberspace Security, Fujian Normal University, China.
 
-- *2018.09 - 2021.06*, Master of Cybersecurity, School of Cybersecurity and Computer Science, Hebei University, Supervised by [Yang Xiaohui](https://cs.hbu.edu.cn/szdw/Profile?id=22).
+- *2023.10 - 2024.10*, Visiting Scholar, Singapore University of Technology and Design, Singapore.
 
-- *2014.09 - 2018.06*, Bachelor of Network Engineering, School of Cybersecurity and Computer Science, Hebei University.
+- *2021.09 - 2025.06*, Ph.D. in Cyberspace Security, Xidian University, China, supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/index.html).
 
 <!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- *2025.XX*, Talk title, venue. -->
 
-# 💻 Internships
-- *2022.10 - 2023.10*, Cryptographic engineering intern, zkMe Technology Limited, China.
-- *2020.03 - 2021.06*, CTF training instructor, China.
-- *2018.06 - 2018.08*, Security engineering intern, Dunan Technology Limited, China.
+# 💻 Academic Services
+
+- Reviewer for CVPR, ICCV, NeurIPS, ACM MM, IEEE TKDE, and IEEE TDSC.

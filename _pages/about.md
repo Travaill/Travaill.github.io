@@ -17,18 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Normal University. I received my Ph.D. degree in Cyberspace Security from Xidian University in 2025. My research interests include machine unlearning, model watermarking, and AI safety. 
+林燊，1997年生，福建福州人，讲师/硕士生导师，于2025年6月获得西安电子科技大学网络空间安全专业博士学位（导师：陈晓峰教授），2025年8月加入福建师范大学计算机与网络空间安全学院。
 
-<a href='https://scholar.google.com/citations?user=ORwuKSYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTravaill%2FTravaill.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
+<span class='anchor' id='directions'></span>
+# 主要研究方向：
+- Machine unlearning
+- Model watermarking
+- AI Security and Safety Evaluation
 
 <span class='anchor' id='news'></span>
-# 🔥 News
+# 🔥 亮点新闻
 
 - 招收27级网络空间安全学硕和人工智能专硕！
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications 
+# 📝 论文成果
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,14 +45,14 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 </div>
 </div> -->
 
-## Selected Publications
+## 已发表学术论文
 
-- ``CVPR 2023`` ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:Y0pCki6q_DkC'></span>
-- ``ACM MM 2024`` GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients, Proceedings of the 32nd ACM International Conference on Multimedia, **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, Jun Liu. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:0EnyYjriUFMC'></span>
-- ``TDSC 2023`` MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning, IEEE Transactions on Dependable and Secure Computing, Xiaoyu Zhang, **Shen Lin**, Chao Chen, Xiaofeng Chen. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:eQOLeE2rZwMCC'></span>
-- ``ECCV 2024`` LTRL: Boosting Long-tail Recognition via Reflective Learning, European Conference on Computer Vision, Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. **(CCF-B, Oral)**<span class='show_paper_citations' data='ORwuKSYAAAAJ:LkGwnXOMwfcC'></span>
-- ``TNSE 2025`` DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants, IEEE Transactions on Network Science and Engineering, **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. **(Q1, IF=7.9)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:8k81kl-MbHgC'></span>
-- ``TDSC 2025`` MPGStack: Membership privacy protection on graph data via model stacking, IEEE Transactions on Dependable and Secure Computing, Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:eQOLeE2rZwMC'></span>
+- ``CVPR 2023`` ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo. **(CCF-A)** 
+- ``ACM MM 2024`` GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients, Proceedings of the 32nd ACM International Conference on Multimedia, **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, Jun Liu. **(CCF-A)** 
+- ``TDSC 2023`` MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning, IEEE Transactions on Dependable and Secure Computing, Xiaoyu Zhang, **Shen Lin**, Chao Chen, Xiaofeng Chen. **(CCF-A)** 
+- ``ECCV 2024`` LTRL: Boosting Long-tail Recognition via Reflective Learning, European Conference on Computer Vision, Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. **(CCF-B, Oral)**
+- ``TNSE 2025`` DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants, IEEE Transactions on Network Science and Engineering, **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. **(Q1, IF=7.9)** 
+- ``TDSC 2025`` MPGStack: Membership privacy protection on graph data via model stacking, IEEE Transactions on Dependable and Secure Computing, Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. **(CCF-A)**
 
 
 ## Preprints
@@ -58,13 +61,9 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 - ``arXiv 2026`` [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309), **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu
 
-<span class='anchor' id='honors-and-awards'></span>
-# 🎖 Honors and Awards
-
-- 博士研究生国家奖学金
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
+# 📖 个人经历
 
 - *2025.08 - Present*, Lecturer, College of Computer and Cyberspace Security, Fujian Normal University, China.
 
@@ -76,7 +75,7 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 - *2025.XX*, Talk title, venue. -->
 
 <span class='anchor' id='academic-services'></span>
-# 💻 Academic Services
+# 💻 学术服务
 
 - Reviewer for CVPR, ICCV, NeurIPS, ACM MM, IEEE TKDE, and IEEE TDSC.
 

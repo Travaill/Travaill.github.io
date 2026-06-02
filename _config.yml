@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Shen"
-description              : "Lecturer in Fujian Normal University."
+description              : "讲师/硕士生导师"
 repository               : "Travaill/Travaill.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Shen(林燊)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fujian Normal University"
+  bio              : "福建师范大学"
   location         : "Fuzhou, China"
   employer         : # "Xidian University"
   pubmed           : 

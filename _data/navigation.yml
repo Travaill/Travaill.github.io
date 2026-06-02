@@ -9,6 +9,9 @@ main:
   - title: "主要成果"
     url: "/#publications"
 
+  - title: "科研项目"
+    url: "/#projects"
+    
   - title: "个人经历"
     url: "/#educations"
 

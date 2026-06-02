@@ -72,8 +72,6 @@ redirect_from:
 
 - *2021.09 - 2025.06*, Ph.D. in Cyberspace Security, Xidian University, China, supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/index.html).
 
-<!-- # 💬 Invited Talks
-- *2025.XX*, Talk title, venue. -->
 
 <span class='anchor' id='academic-services'></span>
 # 💻 学术服务
@@ -102,10 +100,7 @@ redirect_from:
 <span class='anchor' id='prospective-students'></span>
 # 📢 招生信息 
 
-**！！！招收27级网络空间安全学硕和人工智能专硕**
-
 本人立志“长期处于科研一线，促进学生全面发展”
-
 
 **对学生的期望：**
 
@@ -116,7 +111,7 @@ redirect_from:
 
 **对学生的承诺：**
 
-- **系统的学术指导：** 提供一次从“文献推荐—Idea凝练—实验论证—论文修改—投稿发表”的全流程学术指导，引导学术快速入门
+- **系统的学术指导：** 提供一次从“文献推荐—idea凝练—实验论证—论文修改—投稿发表”的全流程学术指导，引导学术快速入门
 - **公平的学术合作：** 原则上尊重学生自选研究方向，**学生idea，学生一作**
 - **良好的工作保障：** 提供充足的设备平台资源，实施公平的奖惩机制，多劳多得，保障学生可以全身心投入学习和科研
 - **丰富的深造机会：** 对于表现良好、对学术有追求的学生，提供各类型的国内外深造访学的机会

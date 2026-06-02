@@ -1,21 +1,18 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "个人简介"
     url: "/#about-me"
 
-  - title: "News"
+  - title: "亮点新闻"
     url: "/#news"
 
-  - title: "Publications"
+  - title: "发表成果"
     url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-
-  - title: "Educations"
+  - title: "个人经历"
     url: "/#educations"
 
-  - title: "Academic Services"
+  - title: "学术服务"
     url: "/#academic-services"
 
   - title: "指导学生"

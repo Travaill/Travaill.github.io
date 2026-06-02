@@ -22,8 +22,8 @@ redirect_from:
 邮箱：linshen@fjnu.edu.cn
 
 主要研究方向：
-- Machine unlearning
-- Model watermarking
+- Machine Unlearning
+- Model Watermarking
 - Model Red Teaming
 - Adversarial Examples
 - Jailbreak Attacks

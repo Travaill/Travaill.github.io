@@ -113,8 +113,10 @@ redirect_from:
 - 黄航翌 (2024级)
 - 陈龙坤 (2024级)
 - 洪凯翔 (2024级)
+- 邓紫涵 (2024级)
 - 李佳麒 (2025级)
 - 刘海林 (2025级)
+- 曾旭帆 (2025级)
 
 <span class='anchor' id='prospective-students'></span>
 # 📢 招生信息 

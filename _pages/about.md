@@ -101,11 +101,18 @@ redirect_from:
 <span class='anchor' id='students'></span>
 # 👥 指导学生
 
-### 研究生
+### 博士研究生
 
-- 李雁姿 (博三，协助指导) 
-- 陈蓉杰 (研一，协助指导) 
-- 陈伟琛 (研一，协助指导)
+- 李雁姿 (协助指导)
+
+### 硕士研究生
+
+**2025级**
+- 陈蓉杰 (协助指导) 
+- 陈伟琛 (协助指导)
+
+**2027级**
+- 王天烁 
 
 <span class='anchor' id='prospective-students'></span>
 # 📢 招生信息 

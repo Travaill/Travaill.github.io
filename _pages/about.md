@@ -74,11 +74,6 @@ redirect_from:
 ## 2023
 
 - ``CVPR 2023`` **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:Y0pCki6q_DkC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=3652803470060293238">引用：84</a>
-- ``WISA 2022`` Wei Li, Xiaoyu Zhang, **Shen Lin**, Xinbo Ban, Xiaofeng Chen. [Chameleon DNN watermarking: Dynamically public model ownership verification](https://link.springer.com/chapter/10.1007/978-3-031-25659-2_25). **International Conference on Information Security Applications**. 2023: 344-356. <a class="show_paper_citations" data="ORwuKSYAAAAJ:Tyk-4Ss8FVUC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=8111934028173220967">引用：5</a>
-
-## 2022
-
-- ``CSS 2022`` Zhengyang Liu, Xiaoyu Zhang, Chenyang Chen, **Shen Lin**, Jingjin Li. [Membership inference attacks against robust graph neural network](https://link.springer.com/chapter/10.1007/978-3-031-18067-5_19). **International Symposium on Cyberspace Safety and Security**. 2022: 259-273. <a class="show_paper_citations" data="ORwuKSYAAAAJ:zYLM7Y9cAGgC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=10275369841629945748">引用：17</a>
 
 <!--
 ## 发明专利

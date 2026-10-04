@@ -53,31 +53,33 @@ redirect_from:
 
 <p id="citation-status">Google Scholar 引用 · 每日尝试更新（UTC 08:00），非实时同步。最近核实快照：2026-10-04 15:59:04 UTC。</p>
 
+CCF 等级依据[2026年第七版目录](https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf)。期刊分区为 JCR 分区，IF 与分区统一采用2025年度指标（2026年发布），并非论文发表当年的指标；来源：[IEEE 官方指标表](https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.pdf)。
+
 ## 代表作
 
 已发表的第一作者论文，按引用次数排序。
 
-- ``CVPR 2023`` **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:Y0pCki6q_DkC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=3652803470060293238">引用：84</a>
-- ``ACM MM 2024`` **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:0EnyYjriUFMC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=4482309221604486400">引用：26</a>
-- ``TNSE 2025`` **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.9)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:8k81kl-MbHgC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=9933703466799372154">引用：3</a>
+- **(CVPR)** **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:Y0pCki6q_DkC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=3652803470060293238">引用：84</a>
+- **(ACM MM)** **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:0EnyYjriUFMC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=4482309221604486400">引用：26</a>
+- **(TNSE)** **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.3)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:8k81kl-MbHgC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=9933703466799372154">引用：3</a>
 
 ## 其他论文
 
 ### 2026
 
-- ``TCE 2026`` Liang Chen, Chengwen Xue, Zhaobin Zhou, Limei Lin, Xiaoding Wang, **Shen Lin**, Jianxi Fan. [Secure Transmissions for 6G SDN-Based Healthcare Digital Twin Networks](https://ieeexplore.ieee.org/abstract/document/11477774/). **IEEE Transactions on Consumer Electronics**. 2026.
-- ``arXiv 2026 · 预印本`` **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen. [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610)
-- ``arXiv 2026 · 预印本`` **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu. [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309)
-- ``arXiv 2026 · 预印本`` Jinman Wu, Yi Xie, **Shen Lin**, Shiqian Zhao, Xiaofeng Chen. [Knowing without acting: The disentangled geometry of safety mechanisms in large language models](https://arxiv.org/abs/2603.05773)
+- **(TCE)** Liang Chen, Chengwen Xue, Zhaobin Zhou, Limei Lin, Xiaoding Wang, **Shen Lin**, Jianxi Fan. [Secure Transmissions for 6G SDN-Based Healthcare Digital Twin Networks](https://ieeexplore.ieee.org/abstract/document/11477774/). **IEEE Transactions on Consumer Electronics**. 2026. **(Q1, IF=9.9)**
+- **(arXiv)** **(预印本)** **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen. [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610)
+- **(arXiv)** **(预印本)** **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu. [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309)
+- **(arXiv)** **(预印本)** Jinman Wu, Yi Xie, **Shen Lin**, Shiqian Zhao, Xiaofeng Chen. [Knowing without acting: The disentangled geometry of safety mechanisms in large language models](https://arxiv.org/abs/2603.05773)
 
 ### 2025
 
-- ``TDSC 2025`` Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. MPGStack: Membership Privacy Protection on Graph Data via Model Stacking. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2025, 22(4): 3723-3736. **(CCF-A)**
+- **(TDSC)** Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. MPGStack: Membership Privacy Protection on Graph Data via Model Stacking. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2025, 22(4): 3723-3736. **(CCF-A)** **(Q1, IF=6.8)**
 
 ### 2024
 
-- ``TDSC 2024`` Xiaoyu Zhang, **Shen Lin**, Chao Chen, and Xiaofeng Chen. MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2024, 21(4): 4220-4235. **(CCF-A)**
-- ``ECCV 2024`` Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. LTRL: Boosting Long-tail Recognition via Reflective Learning. **European Conference on Computer Vision (ECCV)**, 2024: 1-18. **(Oral, CCF-B)**
+- **(TDSC)** Xiaoyu Zhang, **Shen Lin**, Chao Chen, and Xiaofeng Chen. MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2024, 21(4): 4220-4235. **(CCF-A)** **(Q1, IF=6.8)**
+- **(ECCV)** Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. LTRL: Boosting Long-tail Recognition via Reflective Learning. **European Conference on Computer Vision (ECCV)**, 2024: 1-18. **(CCF-B)** **(Oral)**
 
 <!--
 ## 发明专利

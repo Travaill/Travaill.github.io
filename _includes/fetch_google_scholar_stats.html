@@ -1,19 +1,11 @@
 <script>
-    $(document).ready(function () {
+    window.scholarCitationConfig = {
+        snapshot: {{ site.data.scholar_snapshot | jsonify }},
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        url: 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/gs_data.json'
         {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        url: 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json'
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
-        });
-    })
+    };
 </script>
+<script src="{{ '/assets/js/scholar-citations.js' | relative_url }}" defer></script>

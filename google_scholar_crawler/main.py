@@ -1,6 +1,7 @@
 """Read the public Scholar profile once; never replace data on a failed fetch."""
 import json
 import os
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urlparse
@@ -84,4 +85,11 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as error:
+        # Surface the cause in the public Actions summary without requiring log access.
+        message = f'{type(error).__name__}: {error}'
+        message = message.replace('%', '%25').replace('\r', '%0D').replace('\n', '%0A')
+        print(f'::error title=Scholar snapshot retained::{message}', flush=True)
+        sys.exit(1)

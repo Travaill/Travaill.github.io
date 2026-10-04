@@ -63,7 +63,7 @@ CCF 等级依据[2026年第七版目录](https://kyc.lsu.edu.cn/_upload/article/
 - **(ACM MM)** **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:0EnyYjriUFMC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=4482309221604486400">引用：26</a>
 - **(TNSE)** **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.3)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:8k81kl-MbHgC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=9933703466799372154">引用：3</a>
 
-## 其他论文
+## 全部论文
 
 ### 2026
 
@@ -74,12 +74,18 @@ CCF 等级依据[2026年第七版目录](https://kyc.lsu.edu.cn/_upload/article/
 
 ### 2025
 
+- **(TNSE)** **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.3)**
 - **(TDSC)** Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. MPGStack: Membership Privacy Protection on Graph Data via Model Stacking. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2025, 22(4): 3723-3736. **(CCF-A)** **(Q1, IF=6.8)**
 
 ### 2024
 
+- **(ACM MM)** **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)**
 - **(TDSC)** Xiaoyu Zhang, **Shen Lin**, Chao Chen, and Xiaofeng Chen. MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2024, 21(4): 4220-4235. **(CCF-A)** **(Q1, IF=6.8)**
 - **(ECCV)** Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. LTRL: Boosting Long-tail Recognition via Reflective Learning. **European Conference on Computer Vision (ECCV)**, 2024: 1-18. **(CCF-B)** **(Oral)**
+
+### 2023
+
+- **(CVPR)** **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)**
 
 <!--
 ## 发明专利

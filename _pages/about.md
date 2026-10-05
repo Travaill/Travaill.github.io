@@ -39,25 +39,7 @@ redirect_from:
 <span class='anchor' id='publications'></span>
 # 📝 主要成果
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html)
-
-**Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo
-
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html) <strong><span class='show_paper_citations' data='ORwuKSYAAAAJ:YOUR_CITATION_ID'></span></strong>
-- An interpretable knowledge-level machine unlearning method based on knowledge disentanglement and directed knowledge transfer.
-</div>
-</div> -->
-
-<p id="citation-status">Google Scholar 引用 · 每日尝试更新（UTC 08:00），非实时同步。最近核实快照：2026-10-04 15:59:04 UTC。</p>
-
-CCF 等级依据[2026年第七版目录](https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf)。期刊分区为 JCR 分区，IF 与分区统一采用2025年度指标（2026年发布），并非论文发表当年的指标；来源：[IEEE 官方指标表](https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.pdf)。
-
 ## 代表作
-
-已发表的第一作者论文，按引用次数排序。
 
 - **(CVPR)** **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:Y0pCki6q_DkC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=3652803470060293238">引用：84</a>
 - **(ACM MM)** **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:0EnyYjriUFMC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=4482309221604486400">引用：26</a>

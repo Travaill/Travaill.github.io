@@ -98,7 +98,7 @@ redirect_from:
 <span class='anchor' id='academic-services'></span>
 # 💻 学术服务
 
-- Reviewer for CVPR, ICCV, NeurIPS, ACM MM, IEEE TKDE, and IEEE TDSC.
+- Reviewer for CVPR, ICCV, NeurIPS, ACM MM, AAAI, ICLR, IEEE TKDE, and IEEE TDSC.
 
 
 <span class='anchor' id='students'></span>

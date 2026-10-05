@@ -3,10 +3,9 @@ name: Get Citation Data
 permissions:
   contents: write
 
+# Citation fetching is manual-only; automatic triggers are disabled.
 on:
-  page_build:
-  schedule:
-    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 concurrency:
   group: google-scholar-stats

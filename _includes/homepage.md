@@ -7,7 +7,7 @@
 
 <span class='anchor' id='about-me'></span>
 
-{% if page.lang == "en" %}I am Shen Lin, a lecturer and master’s supervisor. I received my Ph.D. in Cyberspace Security from Xidian University in June 2025, supervised by Prof. Xiaofeng Chen. In August 2025, I joined Prof. Li Xu’s team at the College of Computer and Cyberspace Security, Fujian Normal University.{% else %}林燊，硕士生导师，于2025年6月获得西安电子科技大学网络空间安全专业博士学位（导师：陈晓峰教授），2025年8月加入福建师范大学计算机与网络空间安全学院许力教授团队。{% endif %}<a href='https://scholar.google.com/citations?user=ORwuKSYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTravaill%2FTravaill.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+{% if page.lang == "en" %}I am Shen Lin, a lecturer and master’s supervisor. I received my Ph.D. in Cyberspace Security from Xidian University in June 2025, supervised by Prof. Xiaofeng Chen. In August 2025, I joined Prof. Li Xu’s team at the College of Computer and Cyberspace Security, Fujian Normal University.{% else %}林燊，硕士生导师，于2025年6月获得西安电子科技大学网络空间安全专业博士学位（导师：陈晓峰教授），2025年8月加入福建师范大学计算机与网络空间安全学院许力教授团队。{% endif %}<a href='https://scholar.google.com/citations?user=ORwuKSYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTravaill%2FTravaill.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
 
 {% if page.lang == "en" %}Email: {% else %}邮箱：{% endif %}linshen@fjnu.edu.cn
 
@@ -33,42 +33,35 @@
 <span class='anchor' id='publications'></span>
 {% if page.lang == "en" %}# 📝 Publications{% else %}# 📝 主要成果{% endif %}
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+{% if page.lang == "en" %}## Representative Papers{% else %}## 代表作{% endif %}
 
-[ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html)
+- **(CVPR)** **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:Y0pCki6q_DkC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=3652803470060293238">{% if page.lang == "en" %}Citations: {% else %}引用：{% endif %}84</a>
+- **(ACM MM)** **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:0EnyYjriUFMC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=4482309221604486400">{% if page.lang == "en" %}Citations: {% else %}引用：{% endif %}26</a>
+- **(TNSE)** **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.3)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:8k81kl-MbHgC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=9933703466799372154">{% if page.lang == "en" %}Citations: {% else %}引用：{% endif %}3</a>
 
-**Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo
-
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html) <strong><span class='show_paper_citations' data='ORwuKSYAAAAJ:YOUR_CITATION_ID'></span></strong>
-- An interpretable knowledge-level machine unlearning method based on knowledge disentanglement and directed knowledge transfer.
-</div>
-</div> -->
-
-{% if page.lang == "en" %}## Published Papers{% else %}## 已发表学术论文{% endif %}
-
-### 2025
-
-- ``TNSE 2025`` **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.9)** 
-- ``TDSC 2025`` Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. MPGStack: Membership Privacy Protection on Graph Data via Model Stacking. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2025, 22(4): 3723-3726. **(CCF-A)**
-
-### 2024
-
-- ``ACM MM 2024`` **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)**
-- ``ECCV 2024`` Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. LTRL: Boosting Long-tail Recognition via Reflective Learning. **European Conference on Computer Vision (ECCV)**, 2024: 1-18. **(Oral, CCF-B)**
-
-### 2023
-
-- ``CVPR 2023`` **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)**
-- ``TDSC 2023`` Xiaoyu Zhang, **Shen Lin**, Chao Chen, and Xiaofeng Chen. MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2023, 21(4): 4220-4235. **(CCF-A)**
-
-## Preprints
+{% if page.lang == "en" %}## All Papers{% else %}## 全部论文{% endif %}
 
 ### 2026
 
-- ``arXiv 2026`` **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen. [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610)
+- **(arXiv)** **({% if page.lang == "en" %}Preprint{% else %}预印本{% endif %})** **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen. [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610)
+- **(arXiv)** **({% if page.lang == "en" %}Preprint{% else %}预印本{% endif %})** **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu. [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309)
+- **(TCE)** Liang Chen, Chengwen Xue, Zhaobin Zhou, Limei Lin, Xiaoding Wang, **Shen Lin**, Jianxi Fan. [Secure Transmissions for 6G SDN-Based Healthcare Digital Twin Networks](https://ieeexplore.ieee.org/abstract/document/11477774/). **IEEE Transactions on Consumer Electronics**. 2026. **(Q1, IF=9.9)**
+- **(arXiv)** **({% if page.lang == "en" %}Preprint{% else %}预印本{% endif %})** Jinman Wu, Yi Xie, **Shen Lin**, Shiqian Zhao, Xiaofeng Chen. [Knowing without acting: The disentangled geometry of safety mechanisms in large language models](https://arxiv.org/abs/2603.05773)
 
-- ``arXiv 2026`` **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu. [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309)
+### 2025
+
+- **(TNSE)** **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.3)**
+- **(TDSC)** Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. MPGStack: Membership Privacy Protection on Graph Data via Model Stacking. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2025, 22(4): 3723-3736. **(CCF-A)** **(Q1, IF=6.8)**
+
+### 2024
+
+- **(ACM MM)** **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)**
+- **(TDSC)** Xiaoyu Zhang, **Shen Lin**, Chao Chen, and Xiaofeng Chen. MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2024, 21(4): 4220-4235. **(CCF-A)** **(Q1, IF=6.8)**
+- **(ECCV)** Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. LTRL: Boosting Long-tail Recognition via Reflective Learning. **European Conference on Computer Vision (ECCV)**, 2024: 1-18. **(CCF-B)** **(Oral)**
+
+### 2023
+
+- **(CVPR)** **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)**
 
 <!--
 ## 发明专利
@@ -102,7 +95,7 @@
 <span class='anchor' id='academic-services'></span>
 {% if page.lang == "en" %}# 💻 Academic Service{% else %}# 💻 学术服务{% endif %}
 
-- Reviewer for CVPR, ICCV, NeurIPS, ACM MM, IEEE TKDE, and IEEE TDSC.
+- Reviewer for CVPR, ICCV, NeurIPS, ACM MM, AAAI, ICLR, IEEE TKDE, and IEEE TDSC.
 
 
 <span class='anchor' id='students'></span>
@@ -117,6 +110,9 @@
 {% if page.lang == "en" %}**Class of 2025**{% else %}**2025级**{% endif %}
 - 陈蓉杰 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %} 
 - 陈伟琛 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}
+
+{% if page.lang == "en" %}**Class of 2026**{% else %}**2026级**{% endif %}
+- 陈睿 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}
 
 {% if page.lang == "en" %}**Class of 2027**{% else %}**2027级**{% endif %}
 - 王天烁 

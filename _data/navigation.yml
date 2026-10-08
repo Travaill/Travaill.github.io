@@ -1,25 +1,33 @@
 # main links links
 main:
   - title: "个人简介"
+    title_en: "About"
     url: "/#about-me"
 
   - title: "近期新闻"
+    title_en: "News"
     url: "/#news"
 
   - title: "主要成果"
+    title_en: "Publications"
     url: "/#publications"
 
   - title: "科研项目"
+    title_en: "Research Projects"
     url: "/#projects"
     
   - title: "个人经历"
+    title_en: "Experience"
     url: "/#educations"
 
   - title: "学术服务"
+    title_en: "Academic Service"
     url: "/#academic-services"
 
   - title: "指导学生"
+    title_en: "Students"
     url: "/#students"
 
   - title: "招生信息"
+    title_en: "Prospective Students"
     url: "/#prospective-students"

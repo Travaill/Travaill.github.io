@@ -4,13 +4,14 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me" target="_self">{% if page.lang == 'en' %}Homepage{% else %}主页{% endif %}</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ link.url | remove_first: '/' }}" target="_self">{% if page.lang == 'en' %}{{ link.title_en }}{% else %}{{ link.title }}{% endif %}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <a class="language-switch" target="_self" href="{% if page.lang == 'en' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" hreflang="{% if page.lang == 'en' %}zh-CN{% else %}en{% endif %}" lang="{% if page.lang == 'en' %}zh-CN{% else %}en{% endif %}" aria-label="{% if page.lang == 'en' %}切换到中文版{% else %}Switch to English{% endif %}">{% if page.lang == 'en' %}中文{% else %}English{% endif %}</a>
     </div>
   </div>
 </div>

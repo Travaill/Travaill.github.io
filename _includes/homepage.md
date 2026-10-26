@@ -14,9 +14,7 @@
 {% if page.lang == "en" %}Research interests:{% else %}主要研究方向：{% endif %}
 - Machine Unlearning
 - Model Watermarking
-- Model Red Teaming
 - Adversarial Examples
-- Jailbreak Attacks
 - Vision Language Models
 - Multi-modal Large Language Models
 

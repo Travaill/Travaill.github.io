@@ -25,14 +25,14 @@ async function run(remote, withBadge = false) {
     assert.match(view.status.textContent, /保留上次可用快照/);
     view = await run({...snapshot, updated: '2026-09-07T00:00:00Z', publications: {}});
     assert.equal(view.elements[0].textContent, '引用：84');
-    view = await run({...snapshot, updated: '2026-10-05T00:00:00Z', collection_method: 'automated', publications: {'ORwuKSYAAAAJ:unknown': {num_citations: 1}}});
+    view = await run({...snapshot, updated: new Date(Date.parse(snapshot.updated) + 1000).toISOString(), collection_method: 'automated', publications: {'ORwuKSYAAAAJ:unknown': {num_citations: 1}}});
     assert.ok(view.elements.every(e => e.textContent === '引用：暂无数据'));
     assert.match(view.status.textContent, /最近成功抓取/);
     view = await run(new Error('Offline'), true);
     assert.equal(view.total.textContent, snapshot.citedby);
-    assert.match(view.badge.title, /2026-10-04/);
-    view = await run({...snapshot, citedby: 200, updated: '2026-10-31T00:00:00Z'}, true);
+    assert.ok(view.badge.title.includes(new Date(snapshot.updated).toISOString()));
+    view = await run({...snapshot, citedby: 200, updated: new Date(Date.parse(snapshot.updated) + 1000).toISOString()}, true);
     assert.equal(view.total.textContent, 200);
-    assert.match(view.badge.title, /2026-10-31/);
+    assert.ok(view.badge.title.includes(new Date(Date.parse(snapshot.updated) + 1000).toISOString()));
     console.log('Frontend tests passed: badge fallback and fresh updates; no total_cit element, offline fallback, stale data, missing counts.');
 })();

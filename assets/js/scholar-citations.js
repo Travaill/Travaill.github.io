@@ -21,6 +21,11 @@
         current = data;
         var total = document.getElementById('total_cit');
         if (total && Number.isInteger(data.citedby) && data.citedby >= 0) total.textContent = data.citedby;
+        var badge = document.getElementById('scholar-badge');
+        if (badge) {
+            badge.title = (english ? 'Citation data updated: ' : '引用数据更新时间：') + new Date(time).toISOString();
+            if (Date.now() - time > 48 * 60 * 60 * 1000) badge.title += english ? ' (snapshot older than 48 hours)' : '（快照已超过48小时）';
+        }
         Array.prototype.forEach.call(document.querySelectorAll('.show_paper_citations'), function (element) {
             var publication = data.publications[element.getAttribute('data')];
             var count = publication && publication.num_citations;

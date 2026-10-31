@@ -3,18 +3,20 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 const source = fs.readFileSync('assets/js/scholar-citations.js', 'utf8');
 const snapshot = JSON.parse(fs.readFileSync('_data/scholar_snapshot.json', 'utf8'));
-async function run(remote) {
+async function run(remote, withBadge = false) {
+    const total = {textContent: ""};
+    const badge = {title: ""};
     const status = { textContent: '' };
     const elements = Object.keys(snapshot.publications).map(id => ({getAttribute: () => id, textContent: ''}));
     const context = {
         window: {scholarCitationConfig: {snapshot, url: 'fixture'}},
-        document: {getElementById: id => id === 'citation-status' ? status : null, querySelectorAll: () => elements},
+        document: {getElementById: id => id === 'citation-status' ? status : withBadge && id === 'total_cit' ? total : withBadge && id === 'scholar-badge' ? badge : null, querySelectorAll: () => elements},
         AbortController, setTimeout, clearTimeout,
         fetch: () => remote instanceof Error ? Promise.reject(remote) : Promise.resolve({ok: true, json: () => Promise.resolve(remote)})
     };
     vm.runInNewContext(source, context);
     await new Promise(resolve => setImmediate(resolve));
-    return {elements, status};
+    return {elements, status, total, badge};
 }
 (async () => {
     let view = await run(new Error('Offline'));
@@ -26,5 +28,11 @@ async function run(remote) {
     view = await run({...snapshot, updated: '2026-10-05T00:00:00Z', collection_method: 'automated', publications: {'ORwuKSYAAAAJ:unknown': {num_citations: 1}}});
     assert.ok(view.elements.every(e => e.textContent === '引用：暂无数据'));
     assert.match(view.status.textContent, /最近成功抓取/);
-    console.log('Frontend tests passed: no total_cit element, offline fallback, stale data, missing counts.');
+    view = await run(new Error('Offline'), true);
+    assert.equal(view.total.textContent, snapshot.citedby);
+    assert.match(view.badge.title, /2026-10-04/);
+    view = await run({...snapshot, citedby: 200, updated: '2026-10-31T00:00:00Z'}, true);
+    assert.equal(view.total.textContent, 200);
+    assert.match(view.badge.title, /2026-10-31/);
+    console.log('Frontend tests passed: badge fallback and fresh updates; no total_cit element, offline fallback, stale data, missing counts.');
 })();

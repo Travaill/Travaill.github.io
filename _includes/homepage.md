@@ -7,7 +7,7 @@
 
 <span class='anchor' id='about-me'></span>
 
-{% if page.lang == "en" %}I am Shen Lin, a lecturer and master’s supervisor. I received my Ph.D. in Cyberspace Security from Xidian University in June 2025, supervised by Prof. Xiaofeng Chen. In August 2025, I joined Prof. Li Xu’s team at the College of Computer and Cyberspace Security, Fujian Normal University.{% else %}林燊，硕士生导师，于2025年6月获得西安电子科技大学网络空间安全专业博士学位（导师：陈晓峰教授），2025年8月加入福建师范大学计算机与网络空间安全学院许力教授团队。{% endif %}<a href='https://scholar.google.com/citations?user=ORwuKSYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTravaill%2FTravaill.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
+{% if page.lang == "en" %}I am Shen Lin, a lecturer and master’s supervisor. I received my Ph.D. in Cyberspace Security from Xidian University in June 2025, supervised by Prof. Xiaofeng Chen. In August 2025, I joined Prof. Li Xu’s team at the College of Computer and Cyberspace Security, Fujian Normal University.{% else %}林燊，硕士生导师，于2025年6月获得西安电子科技大学网络空间安全专业博士学位（导师：陈晓峰教授），2025年8月加入福建师范大学计算机与网络空间安全学院许力教授团队。{% endif %} <a class="scholar-badge" id="scholar-badge" href="https://scholar.google.com/citations?user=ORwuKSYAAAAJ" title="{% if page.lang == 'en' %}Citation snapshot{% else %}引用数快照{% endif %}: {{ site.data.scholar_snapshot.updated | escape }}"><span class="scholar-badge__label"><span aria-hidden="true">🎓</span> Google Scholar citations</span><span class="scholar-badge__count" id="total_cit">{{ site.data.scholar_snapshot.citedby | default: '—' }}</span></a>
 
 {% if page.lang == "en" %}Email: {% else %}邮箱：{% endif %}linshen@fjnu.edu.cn
 

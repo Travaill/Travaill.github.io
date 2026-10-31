@@ -1,0 +1,23 @@
+.scholar-badge {
+  display: inline-flex;
+  align-items: stretch;
+  overflow: hidden;
+  border-radius: 3px;
+  vertical-align: middle;
+  font: 11px/20px Verdana, Geneva, sans-serif;
+  text-decoration: none !important;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .08);
+}
+.scholar-badge__label {
+  padding: 0 6px;
+  background: #f6f6f6;
+  color: #333;
+}
+.scholar-badge__count {
+  padding: 0 7px;
+  background: #9cf;
+  color: #17324d;
+  font-variant-numeric: tabular-nums;
+}
+.scholar-badge:hover { opacity: .85; }
+.scholar-badge:focus-visible { outline: 2px solid #2879b9; outline-offset: 3px; }

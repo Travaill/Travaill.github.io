@@ -23,8 +23,10 @@
 {% if page.lang == "en" %}# 🔥 News{% else %}# 🔥 近期新闻{% endif %}
 
 {% if page.lang == "en" %}
+- 2026/10/28, the paper "CMRG: Cross-modal Machine Unlearning via Rectified Gradients" was accepted by IEEE TDSC **(CCF A)**.
 - I am recruiting students for the 2027 intake in Cyberspace Security (academic master’s, 083900) and Artificial Intelligence (professional master’s, 085410). Interested students are welcome to contact me by email. See **Prospective Students** for details.
 {% else %}
+- 2026/10/28，论文"CMRG: Cross-modal Machine Unlearning via Rectified Gradients" 被IEEE TDSC录用 **(CCF A)**
 - 招收27级网络空间安全学硕（083900）和人工智能专硕（085410），欢迎感兴趣的同学发邮件咨询，详情请见**招生信息**
 {% endif %}
 

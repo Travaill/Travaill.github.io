@@ -35,6 +35,7 @@
 
 {% if page.lang == "en" %}## Representative Papers{% else %}## 代表作{% endif %}
 
+- **(TDSC)** CMRG: Cross-modal Machine Unlearning via Rectified Gradients. **IEEE Transactions on Dependable and Secure Computing (TDSC)**. 2026. **({% if page.lang == "en" %}Accepted{% else %}已录用{% endif %})** **(CCF-A)**
 - **(CVPR)** **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:Y0pCki6q_DkC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=3652803470060293238">{% if page.lang == "en" %}Citations: {% else %}引用：{% endif %}84</a>
 - **(ACM MM)** **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:0EnyYjriUFMC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=4482309221604486400">{% if page.lang == "en" %}Citations: {% else %}引用：{% endif %}26</a>
 - **(TNSE)** **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.3)** <a class="show_paper_citations" data="ORwuKSYAAAAJ:8k81kl-MbHgC" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=9933703466799372154">{% if page.lang == "en" %}Citations: {% else %}引用：{% endif %}3</a>
@@ -43,6 +44,7 @@
 
 ### 2026
 
+- **(TDSC)** CMRG: Cross-modal Machine Unlearning via Rectified Gradients. **IEEE Transactions on Dependable and Secure Computing (TDSC)**. 2026. **({% if page.lang == "en" %}Accepted{% else %}已录用{% endif %})** **(CCF-A)**
 - **(arXiv)** **({% if page.lang == "en" %}Preprint{% else %}预印本{% endif %})** **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen. [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610)
 - **(arXiv)** **({% if page.lang == "en" %}Preprint{% else %}预印本{% endif %})** **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu. [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309)
 - **(TCE)** Liang Chen, Chengwen Xue, Zhaobin Zhou, Limei Lin, Xiaoding Wang, **Shen Lin**, Jianxi Fan. [Secure Transmissions for 6G SDN-Based Healthcare Digital Twin Networks](https://ieeexplore.ieee.org/abstract/document/11477774/). **IEEE Transactions on Consumer Electronics**. 2026. **(Q1, IF=9.9)**

@@ -108,10 +108,6 @@
 - 李雁姿 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}
 - 王志友 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}
 
-{% if page.lang == "en" %}### Master’s Students{% else %}### 硕士研究生{% endif %}
-
-- 林骁 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}
-
 {% if page.lang == "en" %}**Class of 2025**{% else %}**2025级**{% endif %}
 - 陈蓉杰 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %} 
 - 陈伟琛 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}

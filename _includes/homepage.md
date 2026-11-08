@@ -118,6 +118,7 @@
 
 {% if page.lang == "en" %}**Class of 2026**{% else %}**2026级**{% endif %}
 - 陈睿 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}
+- 林骁 {% if page.lang == "en" %}(co-supervised){% else %}(协助指导){% endif %}
 
 {% if page.lang == "en" %}**Class of 2027**{% else %}**2027级**{% endif %}
 - 王天烁 

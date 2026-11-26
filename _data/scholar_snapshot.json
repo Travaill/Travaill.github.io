@@ -11,14 +11,14 @@
   "name": "Shen Lin",
   "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ORwuKSYAAAAJ&citpid=2",
   "affiliation": "Fujian Normal University",
-  "organization": 5596641031730139154,
+  "organization": 5596641031730139000,
   "interests": [
     "Deep Learning",
     "Security & Privacy"
   ],
   "email_domain": "@fjnu.edu.cn",
   "homepage": "http://travaill.github.io/",
-  "citedby": 191,
+  "citedby": 198,
   "publications": {
     "ORwuKSYAAAAJ:Y0pCki6q_DkC": {
       "container_type": "Publication",
@@ -29,7 +29,7 @@
       },
       "filled": false,
       "author_pub_id": "ORwuKSYAAAAJ:Y0pCki6q_DkC",
-      "num_citations": 84,
+      "num_citations": 87,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3652803470060293238",
       "cites_id": [
         "3652803470060293238"
@@ -44,7 +44,7 @@
       },
       "filled": false,
       "author_pub_id": "ORwuKSYAAAAJ:0EnyYjriUFMC",
-      "num_citations": 26,
+      "num_citations": 29,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4482309221604486400",
       "cites_id": [
         "4482309221604486400"
@@ -89,7 +89,7 @@
       },
       "filled": false,
       "author_pub_id": "ORwuKSYAAAAJ:LkGwnXOMwfcC",
-      "num_citations": 18,
+      "num_citations": 20,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16445467206924824862",
       "cites_id": [
         "16445467206924824862"
@@ -104,7 +104,7 @@
       },
       "filled": false,
       "author_pub_id": "ORwuKSYAAAAJ:KlAtU1dfN6UC",
-      "num_citations": 5,
+      "num_citations": 7,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11943169727913032249",
       "cites_id": [
         "11943169727913032249"
@@ -179,7 +179,7 @@
       },
       "filled": false,
       "author_pub_id": "ORwuKSYAAAAJ:Zph67rFs4hoC",
-      "num_citations": null,
+      "num_citations": 1,
       "citedby_url": "https://scholar.google.com.hk/scholar?oi=bibs&hl=zh-CN&cites=900546117788835542"
     },
     "ORwuKSYAAAAJ:YOwf2qJgpHMC": {
@@ -195,9 +195,9 @@
       "citedby_url": "https://scholar.google.com.hk/scholar?oi=bibs&hl=zh-CN&cites=9009304814923529953"
     }
   },
-  "citedby5y": 180,
-  "hindex": 5,
-  "hindex5y": 5,
+  "citedby5y": 198,
+  "hindex": 6,
+  "hindex5y": 6,
   "i10index": 5,
   "i10index5y": 5,
   "cites_per_year": {
@@ -206,6 +206,6 @@
     "2025": 64,
     "2026": 59
   },
-  "updated": "2026-10-31T02:03:36Z",
+  "updated": "2026-11-26T07:59:44Z",
   "collection_method": "verified_snapshot"
 }

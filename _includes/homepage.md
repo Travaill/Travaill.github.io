@@ -97,7 +97,7 @@
 <span class='anchor' id='academic-services'></span>
 {% if page.lang == "en" %}# 💻 Academic Service{% else %}# 💻 学术服务{% endif %}
 
-- **Reviewer:** ACM MM 2025–2026, CVPR 2025–2026, ICCV 2025, NeurIPS 2025–2026, BMVC 2026, AAAI 2027, ICLR 2027.
+- **Conference Reviewer:** ACM MM 2025–2026, CVPR 2025–2026, ICCV 2025, NeurIPS 2025–2026, BMVC 2026, AAAI 2027, ICLR 2027.
 - **Journal Reviewer:** IEEE TDSC, IEEE TKDE.
 
 

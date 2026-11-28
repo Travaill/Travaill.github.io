@@ -18,7 +18,7 @@
   ],
   "email_domain": "@fjnu.edu.cn",
   "homepage": "http://travaill.github.io/",
-  "citedby": 198,
+  "citedby": 200,
   "publications": {
     "ORwuKSYAAAAJ:Y0pCki6q_DkC": {
       "container_type": "Publication",
@@ -206,6 +206,6 @@
     "2025": 64,
     "2026": 59
   },
-  "updated": "2026-11-26T07:59:44Z",
+  "updated": "2026-11-28T05:11:29Z",
   "collection_method": "verified_snapshot"
 }
